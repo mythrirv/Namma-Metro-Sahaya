@@ -36,21 +36,17 @@ The app provides simple route guidance, bilingual language support (English and 
 
 ## Installation Steps
 
-### Step 1: Clone the Repository
-
-git clone https://github.com/your-username/NammaMetroSahaya.git
-
-### Step 2: Open in Android Studio
+### Step 1: Open in Android Studio
 
 - Open Android Studio
 - Click Open Existing Project
 - Select the project folder
 
-### Step 3: Sync Gradle
+### Step 2: Sync Gradle
 
 Wait for Gradle sync to complete automatically.
 
-### Step 4: Run the Application
+### Step 3: Run the Application
 
 Option 1:
 - Start Android Emulator
@@ -118,12 +114,6 @@ End
 - Nearby Station Detection
 - Ticket Price Estimation
 - Chatbot Support
-
----
-
-## Author
-
-Developed by Mythri Raj
 
 ---
 
