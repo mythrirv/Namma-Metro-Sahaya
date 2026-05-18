@@ -1,0 +1,13 @@
+<resources>
+    <style name="Theme.NammaMetroSahaya" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/metro_blue</item>
+        <item name="colorPrimaryVariant">@color/metro_purple</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/metro_green</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:statusBarColor">@color/metro_blue</item>
+        <item name="android:windowBackground">@color/background_color</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+    </style>
+</resources>

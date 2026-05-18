@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="metro_blue">#5c6bc0</color>
+    <color name="metro_purple">#ce93d8</color>
+    <color name="metro_green">#66bb6a</color>
+    <color name="background_color">#121212</color>
+    <color name="card_background">#1e1e1e</color>
+    <color name="text_primary">#ffffff</color>
+    <color name="text_secondary">#aaaaaa</color>
+    <color name="interchange_highlight">#3e2a00</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+</resources>

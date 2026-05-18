@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Namma Metro Sahaya</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="from_station">From Station</string>
+    <string name="to_station">To Station</string>
+    <string name="find_route">Find Route</string>
+    <string name="calculate">Calculate</string>
+    <string name="find_exits">Find Exits</string>
+    <string name="ai_assistant">AI Assistant</string>
+    <string name="route_finder">Route Finder</string>
+    <string name="exit_finder">Exit Finder</string>
+    <string name="fare_time">Fare &amp; Time</string>
+    <string name="visual_guide">Visual Guide</string>
+    <string name="logout">Logout</string>
+    <string name="majestic_interchange">KSR Bengaluru City (Majestic)</string>
+    <string name="purple_line">Purple Line</string>
+    <string name="green_line">Green Line</string>
+</resources>
